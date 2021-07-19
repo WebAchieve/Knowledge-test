@@ -19,6 +19,6 @@ npm run build
 ```
 npm run lint
 ```
-
+Установить настройки firebase и базу realtime https://firebase.google.com/
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
